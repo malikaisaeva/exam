@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gotham Pro';
+}
+
+.container-one {
+    width: 1160px;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+
+.header {
+  border-radius: 10px;
+  
+  
+}
+
+
+
+hr {
+    margin-top: 20px;  
+    
+}
+
+.box {
+    margin-top: 29px;
+    
+}
+
+.input {
+    border: 0;
+    outline: 0;
+
+}
+
+.flex {
+    display: flex;
+}
+
+.icons {
+    margin-top: 29px;
+    margin-left: 400px;
+}
+
+a {
+    text-decoration: none;
+    padding-left: 25px;
+    
+}
+
+
+button {
+    margin-left: 28px;
+    background: blue;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 6px;
+}
+
+button:hover {
+    background: lightgreen;
+}
+
+button:active {
+    background: green;
+}
+
+.text {
+    text-align: center;
+    align-items: center;
+    margin-top: 35px;
+}
+
+select {
+     color: blue;
+     border: none;
+}
+
+.main h5 {
+    margin-top: 45px;
+}
+
+.main {
+ display: flex;
+ gap: 300px;
+} 
+
+.menu {
+ margin-top: 45px;
+ 
+}
+
+.menu  button {
+ border-radius: 40px;
+ width: 8px;
+ height: 8px;
+ margin-left: -2px;
+ background: black;
+}
+
+
+
+.main-one {
+  display: flex;
+  margin-top: 27px;
+  gap: 15px;
+  
+}
+
+.bio-text {
+  margin-top: 10px;
+  line-height: 20px;
+}
+
+.bio-text h4 {
+  margin-top: -3px;
+}
+
+.bio-text h5 {
+  font-weight: normal;
+}
+
+p {
+ margin-top: 15px;
+}
+
+.a {
+ margin-top: 15px;
+ margin-left: -10px;
+ color: blue;
+}
+
+.like {
+ display: flex;
+ 
+}
+
+.icons-one {
+ margin-top: 30px;
+ 
+}
+
+.icons-two {
+ margin-top: 32px;
+ margin-left: 500px;
+ display: flex;
+ 
+}
+
+h4 {
+ margin-top: 5px;
+}
+
+.block {
+ margin-top: 55px;
+ display: flex;
+}
+
+.block h4 {
+ font-weight: normal;
+}
+
+.block .menu {
+  margin-left: 420px;
+  margin-top: -1px;
+}
+
+.image {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+
+.container {
+  display: flex;
+  width: 1160px;
+  margin: 0 auto;
+  margin-top: 20px;
+  gap: 40px;
+}
+
+.container-two {
+  margin-top: 20px;
+  width: 290px;
+  height: 300px;
+  
+}
+
+.picture {
+  margin-top: -45px;
+  text-align: center;
+}
+
+.block-one {
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.bio-two {
+  display: flex;
+  gap: 7px;
+  align-items: flex-start;
+  margin-left: 50px;
+}
+
+.bio-two h3 {
+  text-align: center;
+  padding-top: 1px;
+}
+
+#one {
+  margin-top: 5px;
+}
+
+.block-one h5 {
+  padding-top: 7px;
+  font-weight: normal;
+}
+
+.button {
+  background: #0077B5;
+  width: 230px;
+  height: 32px;
+  text-align: center;
+  color: white;
+  margin: 40px 40px;
+}
+
+.groups {
+  
+}
+
+.groups .name {
+  display: flex;
+  padding-left: 40px;
+  gap: 40px;
+}
+
+.groups .name a {
+  padding-top: 6px;
+}
+
+.bio-three {
+  margin-top: 20px;
+  gap: 20px;
+  
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: flex-start;
+  margin-top: 40px;
+
+}
+
+.item p {
+  margin-top: -2px;
+}
+
+#two {
+  margin-left: 35px;
+  margin-top: 10px;
+  
+}
+
+.add {
+  margin-top: 35px;
+  margin-left: 40px;
+}
+
+.item-one {
+  display: flex;
+  margin-left: 40px;
+
+}
+
+.item-one a:hover {
+  color: orange;
+}
+
+.footer {
+  margin-top: 75px;
+  gap: 20px;
+}
+
+.footer h5 {
+  margin: 10px 65px;
+}
